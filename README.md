@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m @Soappiness
-👀 I’m interested in web, mobile and AI development
-🌱 I’m currently learning AI Orchestrators and mobile frameworks
-📚 I love learning new things!
-📫 You can reach me by email (dekoninck.ferenc@gmail.com), on LinkedIn (Ferenc Dekoninck) or on X / Twitter (@dekoninckferenc)
-⚡ Fun fact: I'm a french BMX Racing rider, I travel very often and I read comics, mangas or books
+- 👋 Hi, I’m @Soappiness
+- 👀 I’m interested in web, mobile and AI development
+- 🌱 I’m currently learning AI Orchestrators and mobile frameworks
+- 📚 I love learning new things!
+- 📫 You can reach me by email (dekoninck.ferenc@gmail.com), on LinkedIn (Ferenc Dekoninck) or on X / Twitter (@dekoninckferenc)
+- ⚡ Fun fact: I'm a french BMX Racing rider, I travel very often and I read comics, mangas or books
